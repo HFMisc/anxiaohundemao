@@ -31,6 +31,11 @@ PE下还原GHO镜像和备份GHO镜像
 
 6、开机并持续按F12进入启动项选择界面。（此处以LENOVO联想电脑为例，其他型号请自行查询）
 
+   启动键参考图：
+
+   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/a38ea515-d6ea-437a-8962-1f8a99723253)
+
+
    启动项选择界面参考如下：
    
    ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/82647596-3d16-4fac-947e-dbc9884e66d9)
