@@ -7,3 +7,5 @@ xattr -d com.apple.quarantine wechattweak-cli
 chmod +X wechattweak-cli
 
 sudo ./wechattweak-cli install
+
+非原创，个人整理，未标明出处见谅。
