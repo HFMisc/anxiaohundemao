@@ -1,4 +1,7 @@
 PE下还原GHO镜像和备份GHO镜像
+
+常用方案一：
+
 准备工作：一个>=8GB的U盘 📢⚠️里面资料提前备份！！！以下工作会格式化整个U盘！
 
 1、访问SYSCEO官网：https://www.sysceo.com/usm
@@ -14,6 +17,11 @@ PE下还原GHO镜像和备份GHO镜像
 3、运行界面如下：插入准备好的U盘，配置可以参考。
 
    ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/072bc09b-5987-4d8e-9384-ba48cdfd664c)
+
+   如果U盘空间有限导致报错，请参照下图进行挑选PE（非必要全制作）
+   
+   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/818630c9-c3ff-4d60-8cf8-76b240b35259)
+
    
 4、点击一键制作，等待制作完成，时间由硬件性能决定（20-30min不等），期间不要拔出U盘。 再次说明⚠️：此步骤会格式化整个U盘，请务必将U盘资料提前备份。
 
@@ -60,6 +68,36 @@ PE下还原GHO镜像和备份GHO镜像
    此过程中请勿给电脑断电，U盘可以在此过程中移除（不推荐），移除后可重复以上步骤还原其它电脑。
    
 9、还原成功后重启电脑即可。如遇到蓝屏或者缺少引导，可以重新执行还原过程，也可以尝试引导修复，参考如下：
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+备用方案二：
+
+适用于没有合适U盘，但是待还原电脑可以开机进系统的情况。
+
+1、选择‘硬盘模式’，并选择一个非C盘的分区进行如下操作
+
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/2db44dcd-e0c0-455a-bbb7-ebdd782350de)
+
+2、点击制作
+
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/3315a76e-b4f8-4419-a1e1-49b10bed43bd)
+
+3、制作完成
+
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/bf1ae513-541a-4c0f-9435-1c180c80537e)
+
+4、重启电脑，选择如下启动项
+
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/4f649339-6535-4777-874b-6de21899391a)
+
+进入PE系统，进行如方案一操作方法。
+
+
+
+
+
 
    
    
