@@ -74,23 +74,30 @@ PE下还原GHO镜像和备份GHO镜像
 
 备用方案二：
 
-适用于没有合适U盘，但是待还原电脑可以开机进系统的情况。
+适用于没有合适U盘，但是待还原电脑可以开机进系统的情况,前提是GHO镜像已经拷贝到此电脑的C盘以外的分区。
 
 1、选择‘硬盘模式’，并选择一个非C盘的分区进行如下操作
 
-![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/2db44dcd-e0c0-455a-bbb7-ebdd782350de)
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/85334663-e6b6-433b-a9ca-8a40aefd3755)
+
 
 2、点击制作
 
-![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/3315a76e-b4f8-4419-a1e1-49b10bed43bd)
+  等待制作完成
+  
+  ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/19f24a4e-8051-4aa7-a675-1e7d9ca9f88c)
+
 
 3、制作完成
 
-![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/bf1ae513-541a-4c0f-9435-1c180c80537e)
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/6b192836-c216-43e4-a741-11662db0a24f)
+
+关闭制作窗口
 
 4、重启电脑，选择如下启动项
 
-![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/4f649339-6535-4777-874b-6de21899391a)
+![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/50c1bf69-cd86-4744-9576-800f8c0da43c)
+
 
 进入PE系统，进行如方案一操作方法。
 
