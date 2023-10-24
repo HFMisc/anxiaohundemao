@@ -35,9 +35,40 @@ PE下还原GHO镜像和备份GHO镜像
    
 7.进入系统后可选择重新分区（⚠️：请谨慎操作）
 
+  此图HD1是系统盘，整个1个分区OS（F:)，其它为数据存储盘及存储分区。
+  
   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/d18c878e-9b33-420d-9198-aa5d05ddfad6)
   
-  此图HD1是系统盘，整个1个分区OS（F:)，其它为数据存储盘及存储分区。
+  如需重新分区推荐参考下图：
+  
+  ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/be3a3d88-c7df-49d0-b130-eb18510f336e)
+
+8、分区完成后，打开安装系统工具
+
+   按照如下步骤操作（第三步请检查分区选择无误！第四步请选择自己GHO文件的路径！慎重确认后再点击第五步执行！⚠️第五步会将第三步中选择的分区进行格式化操作！）
+   
+   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/e0e113d9-c61d-4c8e-bc99-f6ffcb8b547e)
+
+   确认弹窗点击按钮“是”（如果需要终止此还原操作，请点击“否”）
+
+   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/ae604971-2e2b-40a8-9dbb-4718a0c8bae3)
+
+   接下来的过程请耐心等待，持续时间20-30min（这里参照固态硬盘时长，依据电脑性能而定）
+
+   ![image](https://github.com/HFMisc/anxiaohundemao/assets/45294062/183693fb-5071-452a-b83a-2f8e56bb3ff6)
+
+   此过程中请勿给电脑断电，U盘可以在此过程中移除（不推荐），移除后可重复以上步骤还原其它电脑。
+   
+9、还原成功后重启电脑即可。如遇到蓝屏或者缺少引导，可以重新执行还原过程，也可以尝试引导修复，参考如下：
+
+   
+   
+
+
+   
+
+   
+
   
 
 
